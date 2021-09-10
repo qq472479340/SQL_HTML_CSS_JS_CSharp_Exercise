@@ -1,0 +1,66 @@
+﻿body {
+    font-size: 14px;
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+}
+
+#section {
+    background-color: #272e31;
+    color:white;
+}
+
+#section a:hover {
+    color:grey;
+}
+
+
+li {
+    list-style-type:none;
+    margin:10px 5px;
+}
+
+a {
+    text-decoration:none;
+    color: white;
+}
+
+table tr td {
+    border-color:white;
+    width: 25%;
+}
+
+#end-section {
+    position:relative;
+    background-color:black;
+    color:white;
+}
+
+#copyright {
+    height:50px;
+    width: 400px;
+    text-align:center;
+    line-height:50px;
+}
+
+.circleimg {
+    border-radius: 15px;
+}
+
+#linkarea li {
+    display: inline;
+    margin:0 10px;
+}
+
+#linkarea {
+    position:absolute;
+    right:100px;
+    top:12px;
+}
+#linkarea ul{
+    margin:0;
+    padding:0;
+}
+
+#linkarea img:hover {
+    border:2px solid grey;
+}

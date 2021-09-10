@@ -1,0 +1,80 @@
+﻿body {
+}
+
+#header {
+    position:relative;
+    background-color: #030f51;
+    color: white;
+    min-height:100px;
+}
+
+#header button{
+    background-color:orange;
+    position:absolute;
+    right: 100px;
+    top:30px;
+    height:30px;
+    color:white;
+    border:1px solid black;
+    border-radius:5px;
+}
+
+#header button:hover {
+    background-color:yellow;
+}
+
+#header button:active {
+    color:antiquewhite;
+}
+
+#content {
+    background-color:grey;
+    min-height:500px;
+    position:relative;
+}
+
+.contentimg {
+    margin:100px 80px;
+    float:left;
+    width:300px;
+    height:169px;
+    background-color:white;
+}
+
+#content h1{
+    position:absolute;
+    top:50px;
+    left:50px;
+    margin:0;
+}
+
+#pagebar {
+    position:absolute;
+    top:400px;
+    left:80px;
+}
+
+#pagebar li{
+    display:inline;
+    list-style-type:none;
+    margin:0;
+}
+
+#pagebar ul {
+    padding:0;
+}
+
+#pagebar button {
+    width:30px;
+    height:30px;
+    background-color:cadetblue;
+    color:white;
+}
+    #pagebar button:hover {
+        border:1px solid white;
+        background-color:orange;
+    }
+
+    #pagebar button:active {
+        color:black;
+    }

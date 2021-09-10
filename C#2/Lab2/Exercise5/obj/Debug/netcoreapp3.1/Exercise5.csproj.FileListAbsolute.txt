@@ -1,0 +1,12 @@
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.exe
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.deps.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.runtimeconfig.dev.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\bin\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfoInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.AssemblyInfo.cs
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab2\Exercise5\obj\Debug\netcoreapp3.1\Exercise5.genruntimeconfig.cache

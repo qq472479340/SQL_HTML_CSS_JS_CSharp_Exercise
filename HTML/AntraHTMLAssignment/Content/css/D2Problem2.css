@@ -1,0 +1,56 @@
+﻿body {
+    font-family:Calibri;
+}
+
+#Whole {
+    position:absolute;
+    min-width: 50%;
+    min-height:50%;
+    background-color:#d5d5d5;
+}
+
+#Part {
+    position:absolute;
+    min-width:50%;
+    min-height:68%;
+    margin-right:10px;
+    margin-bottom:10px;
+    right: 10px;
+    bottom: 10px;
+    
+    background-color:#02126b;
+}
+
+form input{
+    width: 300px;
+    height: 30px;
+    position: relative;
+    margin: 5px 10px;
+    border-color:#adabab;
+    border-style:solid;
+}
+
+#RButton {
+    width: 100px;
+    height:30px;
+    position:relative;
+    margin:5px 220px;
+}
+
+#LButton {
+    background-color:#02126b;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    margin-left:70px;
+    color:antiquewhite;
+    border-color:#ff6a00;
+    border-style:solid;
+}
+
+a{
+    color:antiquewhite;
+    position:relative;
+    left:220px;
+    font-size:small;
+}

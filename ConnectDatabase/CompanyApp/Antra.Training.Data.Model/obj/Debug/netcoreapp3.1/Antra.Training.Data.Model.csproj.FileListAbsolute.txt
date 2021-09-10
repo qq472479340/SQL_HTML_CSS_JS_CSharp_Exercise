@@ -1,0 +1,9 @@
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\bin\Debug\netcoreapp3.1\Antra.Training.Data.Model.deps.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\bin\Debug\netcoreapp3.1\Antra.Training.Data.Model.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\bin\Debug\netcoreapp3.1\Antra.Training.Data.Model.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\obj\Debug\netcoreapp3.1\Antra.Training.Data.Model.csproj.AssemblyReference.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\obj\Debug\netcoreapp3.1\Antra.Training.Data.Model.AssemblyInfoInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\obj\Debug\netcoreapp3.1\Antra.Training.Data.Model.AssemblyInfo.cs
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\obj\Debug\netcoreapp3.1\Antra.Training.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\obj\Debug\netcoreapp3.1\Antra.Training.Data.Model.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\ConnectDatabase\CompanyApp\Antra.Training.Data.Model\obj\Debug\netcoreapp3.1\Antra.Training.Data.Model.pdb

@@ -1,0 +1,141 @@
+﻿body {
+}
+
+#Whole {
+    position:absolute;
+    width:50%;
+    height:70%;
+    background-color:#001cbc;
+}
+
+#header1 {
+    position:relative;
+    margin:0 0;
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+    display:inline;
+}
+#symbol {
+    display: inline;
+    font-size: small;
+    color: white;
+}
+#NInfo {
+    position:absolute;
+    left:10px;
+    bottom:70px;
+    height: 270px;
+    width: 270px;
+    border: solid white;
+    border-radius:25px;
+}
+#text1 {
+    font-size:smaller;
+    position:absolute;
+    color: white;
+    background-color: #001cbc;
+    left:45px;
+    bottom:335px;
+    z-index:15;
+    font-weight:bold;
+}
+
+table tr td {
+    width: 120px;
+    height:30px;
+}
+
+.input {
+    width:100px;
+}
+
+div table {
+    position:relative;
+    margin:15px;
+}
+
+#Info {
+    position: absolute;
+    right: 10px;
+    bottom: 70px;
+    height: 270px;
+    width: 430px;
+    border: solid white;
+    border-radius: 25px;
+}
+
+#text2 {
+    font-size: smaller;
+    position: absolute;
+    color: white;
+    background-color: #001cbc;
+    right: 120px;
+    bottom: 335px;
+    z-index: 15;
+    font-weight: bold;
+}
+
+ul li {
+    display:inline;
+}
+
+#DoorColor {
+    color: white;
+    position: absolute;
+    left: 15px;
+    top: 60px;
+    font-weight: bold;
+    font-size: smaller;
+}
+
+#MoreInfo {
+    position: absolute;
+    color: white;
+    left: 15px;
+    top: 110px;
+    font-weight: bold;
+    font-size: smaller;
+}
+#InputText {
+    position: absolute;
+    left: 15px;
+    top: 150px;
+    height:100px;
+    width:400px;
+    border-radius:10px;
+}
+
+#ClrButton {
+    position:absolute;
+    left:10px;
+    width:270px;
+    bottom:20px;
+    height:40px;
+    color:#001cbc;
+    background-color:antiquewhite;
+    font-weight:bold;
+    border-radius:10px;
+}
+
+#RButton {
+    position: absolute;
+    right: 10px;
+    width: 430px;
+    bottom: 20px;
+    height: 40px;
+    color: #001cbc;
+    background-color: antiquewhite;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#RButton:hover{
+    border:1px solid red;
+    background-color:cyan;
+}
+
+#ClrButton:hover {
+    border: 1px solid red;
+    background-color: cyan;
+}

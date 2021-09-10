@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>D2Problem3</title>
+    <link href="Content/css/D2Problem3.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="Whole">
+        <h1 style="font-style:italic;height:20px;" align="center">FLIGHT ORDER</h1>
+        <table>
+            <tr style="height:3px;">
+                <td colspan="3"><p style="font-style:italic;">From</p></td>
+                <td colspan="2"><p style="font-style:italic;">To</p></td>
+            </tr>
+            <tr>
+                <td colspan="3" valign="top"><select style="width:150px;"><option>enter a city</option></select></td>
+                <td colspan="2"><select style="width:150px;"><option>enter a city</option></select><br /><input type="checkbox" /><p style="font-size:smaller;display:inline;">Prefer directs</p></td>
+            </tr>
+            <tr>
+                <td colspan="3"><p style="font-style:italic;">Departure Date</p></td>
+                <td colspan="2"><p style="font-style:italic;">Time Interval</p></td>
+            </tr>
+            <tr>
+                <td colspan="3"><input type="date" /></td>
+                <td><input type="time" /></td>
+                <td><input type="time" /></td>
+            </tr>
+            <tr>
+                <td colspan="3"><p style="font-style:italic;">Return Date</p></td>
+                <td colspan="2"><p style="font-style:italic;">Time Interval</p></td>
+            </tr>
+            <tr>
+                <td colspan="3"><input type="date" /></td>
+                <td><input type="time" /></td>
+                <td><input type="time" /></td>
+            </tr>
+            <tr>
+                <td><p style="font-style:italic;">12+</p></td>
+                <td><p style="font-style:italic;">2-12</p></td>
+                <td><p style="font-style:italic;">0-2</p></td>
+                <td colspan="2"><p style="font-style:italic;">Choose class</p></td>
+            </tr>
+            <tr>
+                <td><input type="number" style="width:40px;" /></td>
+                <td><input type="number" style="width:40px;"/></td>
+                <td><input type="number" style="width:40px;"/></td>
+                <td colspan="2"><select style="width:150px;"><option>Economy</option><option>First Class</option></select></td>
+            </tr>
+        </table>
+        <input id="SButton" type="button" value="Search"/>
+    </div>
+</body>
+</html>

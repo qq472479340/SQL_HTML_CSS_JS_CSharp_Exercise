@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>D2Problem5</title>
+    <link href="Content/css/D2Problem5.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="Whole">
+        <div align="center">
+            <p id="header1">
+                fakebook
+            </p>
+            <p id="symbol">&reg;</p>
+            <br />
+            <h1 style="color:white;position:relative;margin:10px;">
+                Registration
+            </h1>
+            <h3 style="color:white;position:relative;margin:0px;">It is safe and it will always be!</h3>
+        </div>
+        <div id="text1">
+            None-Important Information
+        </div>
+        <div id="NInfo">
+            <table>
+                <tr>
+                    <td><input type="text" placeholder="First Name" class="input" /></td>
+                    <td><input type="text" placeholder="Last Name" class="input" /></td>
+                </tr>
+                <tr>
+                    <td><input type="email" placeholder="Your Email" class="input" /></td>
+                    <td><input type="tel" placeholder="Phone Number" class="input" /></td>
+                </tr>
+                <tr>
+                    <td><input type="password" placeholder="Your Password" class="input" /></td>
+                    <td><input type="url" placeholder="Website" class="input" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="color:white;font-size:smaller;font-weight:bold;">Birthday</td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="datetime-local" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="color:white;font-size:xx-small;"><input type="radio" />Female <input type="radio" />Male <input type="radio" />Other</td>
+                </tr>
+            </table>
+        </div>
+        <div id="text2">
+            Important Information *required
+        </div>
+        <div id="Info">
+            <ul style="list-style-type:none;position:absolute;left:15px;top:10px;padding-left:0px;">
+                <li>
+                    <select style="height:22px;">
+                        <option>Country</option>
+                        <option>China</option>
+                    </select>
+                </li>
+                <li>
+                    <input type="text" placeholder="Village" required style="width:150px;" />
+                </li>
+                <li>
+                    <input type="text" placeholder="District" required style="width:150px;" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Street" required style="width:130px;" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Nr" required style="width:60px;" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Floor" required style="width:60px;" />
+                </li>
+                <li>
+                    <input type="text" placeholder="Ap Nr" required style="width:60px;" />
+                </li>
+            </ul>
+            <p id="DoorColor">Door Color</p>
+            <ul style="list-style-type:none;position:absolute;left:15px;top:80px;padding-left:0px;">
+                <li><input type="color" style="width:100px;" /></li>
+                <li><input type="text" placeholder="Water Meter Nr" required style="width:150px;" /></li>
+                <li><select style="width:130px;"><option>Aunt Panties' Size</option></select></li>
+            </ul>
+            <p id="MoreInfo">More Personal Information</p>
+            <textarea id="InputText" placeholder="Give Us More Information!!!" required></textarea>
+        </div>
+        <input id="ClrButton" type="button" value="Clear Form" />
+        <input id="RButton" type="button" value="Register" />
+    </div>
+</body>
+</html>

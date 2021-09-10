@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>D3Problem1</title>
+    <link href="Content/css/D3Problem1.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="Header">
+        <table>
+            <tr>
+                <td rowspan="2"><a href="https://antra.net/"><img src="https://antra.com/wp-content/uploads/2021/02/2021-02-18-2.png" height="60px" /></a></td>
+                <td width="1400px" height="40px" align="right" valign="middle">
+                    <form action="https://www.google.com" method="get">
+                        <a href="https://www.google.com" style="color:white;">0<img src="data:image/png;base64,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" width="13px"/></a>
+                        <div class="User">
+                            <a href="" style="color:white;">USER</a>
+                            <div class="DropMenu-User" align="center">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </div>
+                        <input type="text" name="uname" style="border-radius:5px;" /><button><img src="https://ae01.alicdn.com/kf/H348cdc85506a46548abcee6d10765088M.jpg" width="18px"/></button>
+                    </form>
+                </td>
+            </tr>
+            <tr height="40px">
+                <td>
+                    <ul align="center">
+                        <li>
+                            <a href="https://news.google.com">NEWS</a>
+                            <div class="DropMenu">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="https://antra.net">ABOUT THE UNIVERSITY</a>
+                            <div class="DropMenu">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="https://antra.net">TRAINING COURSES</a>
+                            <div class="DropMenu">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="https://antra.net">FOR COMPANIES</a>
+                            <div class="DropMenu">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="https://antra.net">FORUM</a>
+                            <div class="DropMenu">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="https://antra.net">CONTACTS</a>
+                            <div class="DropMenu">
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                                <a href="http://www.google.com">Click Me</a>
+                            </div>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

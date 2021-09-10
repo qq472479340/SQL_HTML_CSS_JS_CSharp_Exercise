@@ -1,0 +1,13 @@
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.AssemblyReference.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#2\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache

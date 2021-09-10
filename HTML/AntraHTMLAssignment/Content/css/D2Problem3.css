@@ -1,0 +1,24 @@
+﻿body {
+}
+
+#Whole {
+    position:absolute;
+    width:30%;
+    height:50%;
+    background-color:#fa64e5;
+}
+ table tr td p{
+     font-size:small;
+     height:1px;
+ }
+table{
+    position:relative;
+    margin:auto;
+}
+#SButton {
+    position:absolute;
+    bottom:20px;
+    right:80px;
+    width:150px;
+    height:30px;
+}

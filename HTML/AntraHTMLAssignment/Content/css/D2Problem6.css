@@ -1,0 +1,35 @@
+﻿body {
+}
+
+#PicSide {
+    position:absolute;
+    width:50%;
+    height:60%;
+}
+
+#RightSide {
+    position:absolute;
+    left:680px;
+    top:20px;
+    background-color:#dafbfb;
+    width:200px;
+    height:400px;
+}
+
+a {
+    position:relative;
+    margin: 8px 5px;
+}
+
+a img {
+    border-style:solid;
+    border-color:antiquewhite;
+}
+
+a img:hover {
+    border: 3px solid red;
+}
+
+ul li {
+    margin-top:10px;
+}

@@ -1,0 +1,34 @@
+﻿body {
+}
+
+#RButton {
+    width: 200px;
+    height: 30px;
+    background-color: cadetblue;
+    color: white;
+}
+
+#SButton {
+    width: 200px;
+    height: 30px;
+    background-color: greenyellow;
+    color: white;
+}
+
+form {
+    width: 600px;
+    position:relative;
+    margin: 20px 550px;
+}
+
+form input {
+    position:relative;
+    margin: 10px 10px;
+    border-style:solid;
+    outline-color:blue;
+}
+
+form input:hover{
+    border-style:solid;
+    border-color:#4343c3
+}

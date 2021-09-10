@@ -1,0 +1,13 @@
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\n1 f\Desktop\Antra\Hwk&Ans\MyAns\C#\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
